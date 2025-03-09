@@ -17,7 +17,7 @@
   <img src="assets/icons8-jupyter-240.png" alt="JupyterNB Logo" width="50">
   <img src="assets/python-logo.png" alt="Python Logo" width="50">
 <<<<<<< HEAD
-  <img src="assets/dbeaver-logo.png" alt="DBeaver Logo" width="50" background="white">
+  <img src="assets/dbeaver-logo.png" alt="DBeaver Logo" width="50">
 =======
   <img src="assets/dbeaver-logo.png" alt="DBeaver Logo" width="50">
 >>>>>>> 13eddb01df73f1c277cbc06afdfa37eebb2ae22c
