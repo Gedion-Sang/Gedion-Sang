@@ -16,8 +16,7 @@
   <img src="assets/icons8-anaconda-240.png" alt="Anaconda Logo" width="50">
   <img src="assets/icons8-jupyter-240.png" alt="JupyterNB Logo" width="50">
   <img src="assets/python-logo.png" alt="Python Logo" width="50">
-  <img src="assets/dbeaver-logo.png" alt="DBeaver Logo" width="50">
-  <img src="assets/dbeaver-logo.png" alt="DBeaver Logo" width="50">
+  <img src="assets/dbeaver-logo.png" alt="DBeaver Logo" width="50" background_color="White">
   <img src="assets/PostgreSQL-logo.png" alt="PostgreSQL Logo" width="50">
   <img src="assets/MySQL-logo.png" alt="MySQL Logo" width="50">
 </p>
