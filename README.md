@@ -23,3 +23,4 @@
 
 - Data Analyst📊📈
 - Database Manager🗃🗄
+- QA Analyst📔
